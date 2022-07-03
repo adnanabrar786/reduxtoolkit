@@ -1,0 +1,14 @@
+redux youtube tetorials video
+
+https://www.youtube.com/watch?v=lbLwWit41kw&list=PLZdXBpi-l7C6eob4WUGH8NQXFgK0NdaaW
+
+package 
+
+npm install @reduxjs/toolkit react-redux
+
+
+look 
+
+1) store (first file)
+
+
